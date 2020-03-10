@@ -855,6 +855,14 @@ const sites = [
     title: 'jenett. simply. personal.',
     type: 'blog',
     url: 'https://simply.personal.jenett.org'
+  },
+  
+  {
+    author: 'ashpex',
+    langs: ['en'],
+    title: '~/ashpex',
+    type: 'blog',
+    url: 'https://ashpex.neocities.org'
   }
 ]
 
